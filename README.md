@@ -60,7 +60,6 @@ Now that you have successfully run the app, let's modify it.
 You've successfully run and modified your React Native App. :partying_face:
 
 # App
-
 https://github.com/hsb601/PDF_READER-React-Native-CLI-Animated_Splash/assets/65144195/a7e4cb71-6d4c-4872-a547-c959caacb719
 
 ### Now what?
